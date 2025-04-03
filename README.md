@@ -1,2 +1,2 @@
-# Predicting Customer Spending 
+# Predicting Customer Spendings With Machien Learning Models
 Using Different Machine learning methods or models to Predict Customer spending on Cosmetic Products for the next 6 Months
